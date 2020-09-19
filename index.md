@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to gidrokolbaska games
 
 You can use the [editor on GitHub](https://github.com/gidrokolbaska/gidrokolbaska-games/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
