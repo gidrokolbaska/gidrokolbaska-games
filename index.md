@@ -1,3 +1,3 @@
 ## Welcome to gidrokolbaska games
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+<img src="Images/1.jpg" alt="hi" class="inline"/>
