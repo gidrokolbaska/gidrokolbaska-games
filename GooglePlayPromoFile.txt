@@ -1,0 +1,1 @@
+{"gameName":"Laser Tag","storeLink":"https://play.google.com/store/apps/details?id=com.gidrokolbaska.LaserTagNew3","imageUrls":["https://lh3.googleusercontent.com/_vQzHV4qc1Y-OUkVSF46fr-Hwf6aEVwDtmK0nKeZBlKaEdwqxRhbYLGwI-dv3SKdIEM=s180-rw"]}
